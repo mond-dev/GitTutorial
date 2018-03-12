@@ -1,2 +1,2 @@
 # GitTutorial
-Github Tutorial
+Github is very nice.
